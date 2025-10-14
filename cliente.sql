@@ -37,3 +37,4 @@ INSERT INTO comidas_favoritas (nome_pessoa, comida, tipo, nota, cidade) VALUES
 SELECT nome_pessoa, comida, nota, cidade
 FROM comidas_favoritas
 WHERE nota > 8;
+
